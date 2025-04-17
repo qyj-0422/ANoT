@@ -1,1 +1,10 @@
+# 数据解读
 
+## train.txt中数据解读
+每一行均有五列，典型格式为
+1233	0	478	0	0
+1. 第一列代表source_object_id
+2. 第二列代表relation_id
+3. 第三列代表target_object_id
+
+后两列暂时不知道什么意思，且似乎都是0
